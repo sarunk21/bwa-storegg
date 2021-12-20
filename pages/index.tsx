@@ -299,16 +299,16 @@ const Home: NextPage = () => {
 											<path
 												d="M37 55H-4"
 												stroke="white"
-												stroke-width="4"
-												stroke-linecap="round"
-												stroke-linejoin="round"
+												strokeWidth="4"
+												strokeLinecap="round"
+												strokeLinejoin="round"
 											/>
 											<path
 												d="M23 64L-4 64"
 												stroke="#B7B0F4"
-												stroke-width="4"
-												stroke-linecap="round"
-												stroke-linejoin="round"
+												strokeWidth="4"
+												strokeLinecap="round"
+												strokeLinejoin="round"
 											/>
 											<rect
 												x="23"
@@ -332,7 +332,7 @@ const Home: NextPage = () => {
 											cy="29.5"
 											r="5.5"
 											stroke="white"
-											stroke-width="4"
+											strokeWidth="4"
 										/>
 									</g>
 								</svg>
@@ -380,16 +380,16 @@ const Home: NextPage = () => {
 										<path
 											d="M32 36H5"
 											stroke="white"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 										<path
 											d="M27 45L9 45"
 											stroke="#B7B0F4"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 										<rect
 											x="56"
@@ -402,16 +402,16 @@ const Home: NextPage = () => {
 										<path
 											d="M97 50H70"
 											stroke="white"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 										<path
 											d="M92 59L74 59"
 											stroke="#6B63AC"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 									</g>
 								</svg>
@@ -459,23 +459,23 @@ const Home: NextPage = () => {
 										<path
 											d="M50 46L50 68"
 											stroke="white"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 										<path
 											d="M40 54L40 68"
 											stroke="#B7B0F4"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 										<path
 											d="M30 60L30 68"
 											stroke="#B7B0F4"
-											stroke-width="4"
-											stroke-linecap="round"
-											stroke-linejoin="round"
+											strokeWidth="4"
+											strokeLinecap="round"
+											strokeLinejoin="round"
 										/>
 										<circle cx="40" cy="26" r="14" fill="#2B2467" />
 										<path
